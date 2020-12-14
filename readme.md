@@ -1,12 +1,12 @@
-<img src="leaderboard.png"
+<img src="leaderboard.PNG"
      alt="image archives site mydevskilltree"
      style="float: left; margin-right: 10px;" />
-<img src="profil.png"
+<img src="profil.PNG"
      alt="image archives site mydevskilltree"
      style="float: left; margin-right: 10px;" />
-<img src="skills.png"
+<img src="skills.PNG"
      alt="image archives site mydevskilltree"
      style="float: left; margin-right: 10px;" />
-<img src="team.png"
+<img src="team.PNG"
      alt="image archives site mydevskilltree"
      style="float: left; margin-right: 10px;" />
